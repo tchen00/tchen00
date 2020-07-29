@@ -1,5 +1,6 @@
 # Hello there! 👋
 <hr>
+<b>Name: </b> Tammy Chen
 <!--
 **tchen00/tchen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
