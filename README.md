@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hello there! 👋
+<hr>
 <!--
 **tchen00/tchen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
